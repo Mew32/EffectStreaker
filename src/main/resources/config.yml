@@ -1,0 +1,12 @@
+#Potions here
+potions:
+  0:
+    type: speed
+    duration: 100
+    amplifier: 100
+#Message: message will send the user a message where %kills% is kills left.
+message: Kills left is %kills%
+#Itemname: the name the item is required to have case insensitive
+itemname: streaker
+#Kills required to have
+killsneeded: 3

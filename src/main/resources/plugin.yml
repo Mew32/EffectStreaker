@@ -1,0 +1,6 @@
+name: EffectStreaker
+main: me.Mew32.EffectStreaker.EffectStreaker
+version: 1.0.0
+commands:
+   es:
+      description: This is a command to edit settings of EffectStreaker.
